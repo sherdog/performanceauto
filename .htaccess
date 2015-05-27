@@ -1,0 +1,3 @@
+#php_flag register_globals on
+Order allow,deny
+Allow from all

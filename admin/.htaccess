@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin"
+AuthUserFile "/home/performa/.htpasswds/public_html/admin/passwd"
+require valid-user
